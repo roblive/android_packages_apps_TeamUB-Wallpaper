@@ -25,7 +25,7 @@
             android:label="@string/app_name"
             android:icon="@drawable/ic_launcher"
             android:screenOrientation="nosensor"
-            android:finishOnCloseSystemDialogs="true">
+            android:finishOnCloseSystemDialogs="true"
             <intent-filter>
                 <action android:name="android.intent.action.SET_WALLPAPER" />
                 <category android:name="android.intent.category.DEFAULT" />
