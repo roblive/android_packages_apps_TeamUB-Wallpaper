@@ -10,13 +10,12 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.teamub.wallpapers"
     android:versionName="1.0.2"
-    android:versionCode="101" 
-    android:installLocation="auto">
+    android:versionCode="101">
     
     <uses-permission android:name="android.permission.SET_WALLPAPER" />
     
     <uses-sdk
-        android:minSdkVersion="14"
+        android:minSdkVersion="19"
         android:targetSdkVersion="19" />
 
     <application
