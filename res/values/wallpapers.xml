@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013 TeamUB Project
+
+     Licensed under the GNU GPLv2 license
+
+     The text of the license can be found in the LICENSE file
+     or at https://www.gnu.org/licenses/gpl-2.0.txt
+-->
+
+<resources>
+    <string-array name="wallpapers" translatable="false">
+        <item>wallpaper_0</item>
+        <item>wallpaper_1</item>
+        <item>wallpaper_2</item>
+        <item>wallpaper_3</item>
+        <item>wallpaper_4</item>
+        <item>wallpaper_5</item>
+        <item>wallpaper_5</item>
+        <item>wallpaper_5</item>
+        <item>wallpaper_5</item>
+        <item>wallpaper_5</item>
+        <item>wallpaper_5</item>
+        <item>wallpaper_5</item>
+        <item>wallpaper_5</item>
+        <item>wallpaper_5</item>
+        <item>wallpaper_5</item>                   
+    </string-array>
+
+    <string-array name="info" translatable="false">
+        <item>A Litte Drop -Rob Live</item>
+        <item>Natural Energy -Rob Live</item>
+        <item>Light -Rob Live</item>
+        <item>Beach -Rob Live</item>
+        <item>Relaxation -Rob Live</item>
+        <item>Stay Tuned</item>        
+        <item>Stay Tuned</item>
+        <item>Stay Tuned</item>
+        <item>Stay Tuned</item>
+        <item>Stay Tuned</item>  
+        <item>Stay Tuned</item>   
+        <item>Stay Tuned</item>
+        <item>Stay Tuned</item>
+        <item>Stay Tuned</item>  
+        <item>Stay Tuned</item>       
+    </string-array>
+</resources>
